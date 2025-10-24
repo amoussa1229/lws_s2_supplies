@@ -7,5 +7,6 @@ You can use this file to direct import using Cpt Hedgehog's site
 
 Update Log
 
-10-21-25
-10-23-25
+- 10-21-25
+- 10-23-25
+- 10-24-25
